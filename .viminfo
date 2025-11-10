@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1762766492,,"wq!"
+|2,0,1762770450,,"wq!"
 :q!
 |2,0,1762766295,,"q!"
 :wq
@@ -36,36 +36,46 @@
 # Registers:
 
 # File marks:
-'0  57  22  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,48,57,22,1762766492,"~/docker_practice/django-notes-app/docker-compose.yml"
-'1  1  0  /etc/nginx/conf.d/default.conf
-|4,49,1,0,1762766295,"/etc/nginx/conf.d/default.conf"
-'2  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
-|4,50,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
-'3  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,51,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
+'0  1  0  ~/.gitignore
+|4,48,1,0,1762770450,"~/.gitignore"
+'1  57  22  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,49,57,22,1762766492,"~/docker_practice/django-notes-app/docker-compose.yml"
+'2  1  0  /etc/nginx/conf.d/default.conf
+|4,50,1,0,1762766295,"/etc/nginx/conf.d/default.conf"
+'3  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,51,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
 '4  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,52,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
-'5  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,53,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
+'5  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,53,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
 '6  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,54,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
 '7  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,55,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
 '8  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,56,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
-'9  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
-|4,57,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+'9  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,57,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitignore
+|4,39,1,0,1762770450,"~/.gitignore"
 -'  57  22  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,39,57,22,1762766492,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  57  22  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,57,22,1762766492,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,35,17,1762766473,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,39,35,17,1762766473,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  1  0  /etc/nginx/conf.d/default.conf
 |4,39,1,0,1762766295,"/etc/nginx/conf.d/default.conf"
 -'  1  0  /etc/nginx/conf.d/default.conf
 |4,39,1,0,1762766295,"/etc/nginx/conf.d/default.conf"
+-'  1  0  /etc/nginx/conf.d/default.conf
+|4,39,1,0,1762766295,"/etc/nginx/conf.d/default.conf"
+-'  1  0  /etc/nginx/conf.d/default.conf
+|4,39,1,0,1762766295,"/etc/nginx/conf.d/default.conf"
 -'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
 |4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
 -'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
@@ -74,6 +84,22 @@
 |4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
 -'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
 |4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766263,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,39,35,17,1762766188,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  35  17  ~/docker_practice/django-notes-app/docker-compose.yml
@@ -92,6 +118,24 @@
 |4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766145,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
+-'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
+|4,39,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
 |4,39,33,16,1762766129,"~/docker_practice/django-notes-app/docker-compose.yml"
 -'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
@@ -132,6 +176,38 @@
 |4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
 -'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
 |4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  2  21  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,2,21,1762766117,"~/docker_practice/django-notes-app/nginx/default.conf"
 -'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
 |4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
 -'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
@@ -172,94 +248,25 @@
 |4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
 -'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
 |4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  33  16  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,33,16,1762766098,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  19  24  ~/docker_practice/django-notes-app/docker-compose.yml
-|4,39,19,24,1762765945,"~/docker_practice/django-notes-app/docker-compose.yml"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
--'  5  12  ~/docker_practice/django-notes-app/.env
-|4,39,5,12,1762765922,"~/docker_practice/django-notes-app/.env"
+-'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
+-'  1  0  ~/docker_practice/django-notes-app/nginx/default.conf
+|4,39,1,0,1762766104,"~/docker_practice/django-notes-app/nginx/default.conf"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1762770449	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/docker_practice/django-notes-app/docker-compose.yml
 	*	1762766489	0
